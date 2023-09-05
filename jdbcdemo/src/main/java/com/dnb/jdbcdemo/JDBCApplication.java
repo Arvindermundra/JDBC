@@ -19,7 +19,7 @@ public class JDBCApplication {
 		// TODO Auto-generated method stub
 
 		// localdate to sql date:java.sql.date
-
+		System.out.println("hola");
 		Scanner sc = new Scanner(System.in);
 //		List<Account> accounts = new ArrayList<>();
 //		//int n = sc.nextInt();
